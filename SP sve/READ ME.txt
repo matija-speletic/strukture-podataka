@@ -1,0 +1,6 @@
+U ovim folderima sam stavio sve klase iz projekta...uradjeni zadaci su u klasi za tu strukturu (tipa zadaci za grafove su u GraphInt.cpp i tako za sve, videces vec)
+U header fajlovima pise koji zadatak je za koji rok
+U main se nalazi zakomentarisani kod koji testira svaku funkciju za svaki rok
+Hash tablice sam pisao u svesdci samo jer me mrzelo da testiram, slikacu ako zatreba nesto
+
+Srecno!
